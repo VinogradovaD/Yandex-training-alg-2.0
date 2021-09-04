@@ -1,4 +1,4 @@
-# A. Interactor
+# [A. Interactor](https://github.com/VinogradovaD/yandex_training_alg_2.0/blob/main/Day%201.1/A.java)
 Ограничение времени	1 секунда
 Ограничение памяти	256Mb
 Ввод	стандартный ввод или input.txt
